@@ -16,11 +16,11 @@
   <br>
   I am a AI/ML Enthusiast.
     <p>
-    I’m working as a self trained Software Engineer and contributing to frontend and backend for building web applications.
+    I’m working as a self trained Software Engineer and contributing to Data Analysis and Machine Learning.
     <p>
     I am invested in Competitive Programming.
     <p>
-    I love to solve problems on platforms like leetcode , hackerrank and interviewbit.
+    I love to solve problems on platforms like codechef, leetcode, codewars and hackerrank.
     <p>
     How to reach me: <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
 </div>
